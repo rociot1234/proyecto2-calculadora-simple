@@ -6,6 +6,6 @@
 - Como usuario, quiero borrar ingresos o gastos que he registrado por error para mantener un registro correcto.
 - Como usuario, quiero agregar una breve nota a cada gasto para saber en qué lo use.
 - Como usuario, quiero que los ingresos y gastos que registre se mantengan guardados aunque cierre o recargue la página, para no tener que ingresarlos de nuevo.
-- Como usuario, quiero ver un gráfico sencillo que me muestre lo que gano y lo que gasto.
-- Como usuario, quiero tener una herramienta de cálculo en la misma página donde llevo mis finanzas.
+- Como usuario, quiero ver un gráfico sencillo que me muestre lo que gano y lo que gasto, para entender mejor mi situación financiera.
+- Como usuario, quiero tener una herramienta de cálculo en la misma página donde llevo mis finanzas, para no tener que abrir otra app.
 - Como usuario, quiero ver una alerta que me avise cuando estoy gastando de mas.
